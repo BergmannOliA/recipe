@@ -1,4 +1,4 @@
 #recipe
 
-This is a recipe for guacamoles
+This is a recipe for guacamole
 
